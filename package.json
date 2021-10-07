@@ -1,0 +1,34 @@
+{
+  "name": "com.postert.projnet4unity",
+  "version": "0.1.0",
+  "displayName": "Geo Coordinates by ProjNet4GeoAPI",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1"
+  },
+  "keywords": [
+     "geocoordinates",
+     "geo-coordinates",
+     "Unity",
+     "Unity3D",
+     "Geographic coordinates",
+     "GPS coordinates",
+     "Geographic coordinate system",
+     "latitude",
+     "longitude",
+     "UTM coordinates",
+     "Universal Transverse Mercator coordinate system",
+     "UTM coordinate system",
+     "ETRS89/UTM coordinate system"
+   ],
+   "author": {
+     "name": "Patrick Postert",
+     "email": "Patrick.Postert@ieee.org"
+   }
+ }
+ 
